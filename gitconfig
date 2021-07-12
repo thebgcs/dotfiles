@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = br.gabriel10@gmail.com
+	name = Bruno Santiago
